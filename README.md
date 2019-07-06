@@ -8,9 +8,12 @@ Project Description: For our project we would like to build a front-end dashboar
 Team members: Eric, Valerie, Irina
 
 Division of Tasks: 
+
 Val: (NLP)
 -  100 movies to get descriptions
 -  run descriptions through spacy
+
+
 Eric: (NLP)
 - find synonyms using thesaurus api
 - match # synonyms to # synonyms
